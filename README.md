@@ -10,7 +10,7 @@ Hello! I'm **Kasturi Khupse**, a passionate AI & Machine Learning enthusiast �
 - 🌱 Currently learning **Deep Learning, NLP, and Generative AI**.  
 - 🤖 Fascinated by **Machine Learning Models**, **AI Automation**, and **Data Analysis**.  
 - ✨ Exploring projects at the intersection of AI and creativity.  
-
+- Developing interest in the scenarios of the development and intergration.
 ---
 
 ## ⚡ Tech Skills  
